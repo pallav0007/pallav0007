@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pallav0007
 - 👀 I’m interested in web development , machine learning and datascience
-- 🌱 I’m currently trying to learn every new thing i come across and explore to the fullest
+- 🌱 I’m currently trying to learn every new thing I come across and explore to the fullest
 
 
 <!---
